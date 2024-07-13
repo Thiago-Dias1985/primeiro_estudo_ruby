@@ -29,7 +29,7 @@ loop do
  when 0
    break
  else
-   result = 'Não entendi!!'
+   result = 'Não entendi ,vamos tentar novamente?!!'
  end
 
  system "clear"
